@@ -1,7 +1,7 @@
 # Coordion
 音楽を着る新しい時代へ
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-TLO0vWfOIQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/-TLO0vWfOIQ/0.jpg)](http://www.youtube.com/watch?v=-TLO0vWfOIQ)
 
 ## What is this?
 - あなたのコーディネートからプレイリストを生成するサービスです
