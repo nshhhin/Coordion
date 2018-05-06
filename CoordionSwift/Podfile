@@ -1,0 +1,23 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'CoordionSwift' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for CoordionSwift
+  pod 'youtube-ios-player-helper'
+
+  target 'CoordionSwiftTests' do
+    inherit! :search_paths
+    # Pods for testing
+    pod 'youtube-ios-player-helper'
+  end
+
+  target 'CoordionSwiftUITests' do
+    inherit! :search_paths
+    # Pods for testing
+    pod 'youtube-ios-player-helper'
+  end
+
+end
